@@ -1,0 +1,19 @@
+# Локальное окружение и кеши
+.android-home/
+.gradle-home/
+.gradle/
+.kotlin/
+.sdk/
+
+# Результаты сборки
+build/
+*.apk
+*.aab
+
+# Локальные настройки и ключи подписи
+local.properties
+keystore.properties
+*.keystore
+*.jks
+
+.tools/

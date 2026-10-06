@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="muscle_groups">
+        <item>Грудь</item>
+        <item>Спина</item>
+        <item>Плечи</item>
+        <item>Бицепс</item>
+        <item>Трицепс</item>
+        <item>Предплечья</item>
+        <item>Пресс</item>
+        <item>Квадрицепс</item>
+        <item>Бицепс бедра</item>
+        <item>Ягодицы</item>
+        <item>Голени</item>
+        <item>Трапеции</item>
+    </string-array>
+</resources>

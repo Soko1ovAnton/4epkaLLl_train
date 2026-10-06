@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="2dp">
+
+    <TextView
+        android:id="@+id/weekday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:textColor="@color/md_theme_onSurfaceVariant" />
+
+    <TextView
+        android:id="@+id/day_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/md_theme_onBackground" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/dots1"
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_margin="1dp" />
+
+        <View
+            android:id="@+id/dots2"
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_margin="1dp" />
+    </LinearLayout>
+</LinearLayout>

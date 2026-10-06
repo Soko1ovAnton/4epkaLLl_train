@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/ic_calendar"
+        android:title="Календарь" />
+    <item
+        android:id="@+id/nav_stats"
+        android:icon="@drawable/ic_stats"
+        android:title="Статистика" />
+    <item
+        android:id="@+id/nav_library"
+        android:icon="@drawable/ic_dumbbell"
+        android:title="Упражнения" />
+    <item
+        android:id="@+id/nav_templates"
+        android:icon="@drawable/ic_templates"
+        android:title="Шаблоны" />
+</menu>
